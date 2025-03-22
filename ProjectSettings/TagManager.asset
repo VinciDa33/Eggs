@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Egg
   - Pan
+  - Manager
+  - Gate
   layers:
   - Default
   - TransparentFX
@@ -40,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 524416773
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
